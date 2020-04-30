@@ -1,0 +1,2 @@
+D:\Education\Coursera\C++\Polimorfizm\Debug\Polimorfizm.exe
+D:\Education\Coursera\C++\Polimorfizm\Debug\Polimorfizm.pdb
